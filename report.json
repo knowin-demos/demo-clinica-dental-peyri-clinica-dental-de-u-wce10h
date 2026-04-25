@@ -1,0 +1,103 @@
+{
+  "empresa": "Clínica Dental Peyrí | Clínica Dental de Urgencias en Barcelona",
+  "web": "https://clinicadentalpeyri.com",
+  "sector": "salud",
+  "builder": "elementor",
+  "fecha": "2026-04-25T12:24:12.700Z",
+  "templateVersion": "v7",
+  "aiModel": "catalog-deterministic",
+  "aiCost": "$0.00",
+  "cssPersonalized": true,
+  "cssApproach": "catalog-deterministic",
+  "verify": {
+    "passed": true,
+    "issues": [],
+    "warnings": [],
+    "sizeKB": 445,
+    "checksRun": 13,
+    "checksPassed": 13
+  },
+  "cssSelectorsUsed": {
+    "sections": ".elementor-section,.elementor-top-section,.e-con:not(.e-con-inner),[data-element_type=\"container\"],[data-element_type=\"section\"]",
+    "cards": ".elementor-widget-icon-box,.elementor-widget-image-box,.elementor-icon-box,[class*=\"elementor-repeater-item\"]",
+    "buttons": ".elementor-button,.elementor-button-wrapper a,.elementor-widget-button a",
+    "nav": ".elementor-location-header,.e-con[data-settings*=\"sticky\"],header.elementor-element"
+  },
+  "siteAnalysis": {
+    "builder": "elementor",
+    "fonts": [
+      "inherit",
+      "-apple-system",
+      "monospace",
+      "eicons}.elementor-custom-embed-play.elementor-playing i:before{content:",
+      "eicons"
+    ],
+    "colors": [
+      "#000000",
+      "#abb8c3",
+      "#ffffff",
+      "#f78da7",
+      "#cf2e2e"
+    ],
+    "hasStickyHeader": true,
+    "hasTestimonials": true,
+    "hasSlider": true,
+    "hasGallery": true,
+    "imgCount": 5,
+    "formCount": 2
+  },
+  "improvements": [
+    "URLs relativas → absolutas (base: https://clinicadentalpeyri.com)",
+    "Eliminados scripts de tracking",
+    "CSS catálogo v7 — selectores elementor (determinista)",
+    "Banner demo + barra de progreso",
+    "1 imgs lazy loading"
+  ],
+  "wowEffects": [
+    "E1 — Scroll reveal secciones",
+    "E1f — Fallback IntersectionObserver",
+    "E2 — Stagger reveal tarjetas",
+    "E3 — Hover premium tarjetas",
+    "E4 — Hover botones",
+    "E5 — Zoom imágenes",
+    "E6 — Barra progreso scroll",
+    "E7 — Glass header (condicional)",
+    "E8 — Card bottom line",
+    "E9 — Input focus glow (condicional)",
+    "E10 — ::selection branded",
+    "E11 — Footer separador",
+    "E12 — Heading reveal",
+    "E13 — Link underline",
+    "E14 — WhatsApp flotante (condicional)",
+    "E15 — Global polish",
+    "FIX — overflow-x containment",
+    "FIX — CSS URLs absolutas",
+    "REDUCED-MOTION safety"
+  ],
+  "preservedContent": "HTML original 100% intacto",
+  "extractedData": {
+    "phone": "+34932160210",
+    "email": "info@clinicadentalpeyri.com",
+    "address": "paseo de gracia y Rambla Cataluña)",
+    "jsonLdFound": false
+  },
+  "performance": {
+    "lazyLoading": 1,
+    "webpConversion": 0,
+    "fontOptimization": "original",
+    "trackingRemoved": true
+  },
+  "seo": {
+    "metaTags": {
+      "openGraph": "added_missing",
+      "geoTags": "added"
+    },
+    "schemaOrg": {
+      "localBusiness": "MedicalBusiness",
+      "faqPage": "in_nosotros_page"
+    },
+    "content": {
+      "altTexts": "1 fixed"
+    }
+  }
+}
